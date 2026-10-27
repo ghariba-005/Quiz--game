@@ -38,9 +38,9 @@ questions =[
         "answer": "A"
     },
     {
-        "question": "Capital city of Azerbaijan?",
+        "question": "Capital city of France?",
         "options": ["A. London", "B. Paris", "C. Tbilisi", "D. Baku"],
-        "answer": "D"
+        "answer": "B"
     },
 
 ]
