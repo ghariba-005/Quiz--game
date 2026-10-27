@@ -36,7 +36,12 @@ questions =[
         "question": "What is the freexing point of water?",
         "options": ["A. 0C", "B. 10C", "C. 50C", "D. 100C"],
         "answer": "A"
-    }
+    },
+    {
+        "question": "Capital city of Azerbaijan?",
+        "options": ["A. London", "B. Paris", "C. Tbilisi", "D. Baku"],
+        "answer": "D"
+    },
 
 ]
 
